@@ -4,7 +4,7 @@ Este repositório contém a solução do trabalho da disciplina de Computação 
 
 ## 👨‍💻 Autor
 - **Nome:** Davi Oliveira de Alencar  
-- **Curso:** [Seu curso aqui]  
+- **Curso:** Engenharia da Computação 
 - **Professor:** Carlos Benício  
 
 ## 🧠 Conteúdo
@@ -18,7 +18,6 @@ Este repositório contém a solução do trabalho da disciplina de Computação 
 
 - `av2.py`: Código-fonte do projeto em Python.
 - `Trabalho_Concorrencia_Paralelismo_Davi.docx`: Parte teórica do trabalho.
-- `Trabalho_Concorrencia_Paralelismo_Davi.pdf`: Versão em PDF (opcional).
 
 ## 🚀 Como executar
 
